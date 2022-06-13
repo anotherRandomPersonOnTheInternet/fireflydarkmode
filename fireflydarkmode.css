@@ -1,0 +1,270 @@
+* {
+  /*font-family: -apple-system !important;*/
+}
+
+*:not(.ff-jseditor-enabled) {
+  color: #fff;
+  font-family: -apple-system !important;
+}
+
+*:not(.css-1hcytw, .css-1vijc7s, .css-a5yu8l) {
+  border: 0px !important;
+}
+
+body {
+  background-color: #42525b !important;
+}
+
+/* white icons*/
+.ff_icon {
+  color: #fff !important;
+  filter: brightness(100.00) !important;
+}
+
+/*overides bg color in body*/
+#root {
+  background-color: #111;
+}
+
+/* changes nav style */
+.css-tec9h0, .css-1xnw2hy {
+  background-color: #161616 !important;
+}
+
+/* topnav */
+.css-zwqpe0 {
+  background-color: #42525b !important;
+}
+
+/* search button colour */
+.css-usavnp {
+  background-color: #111 !important;
+}
+
+/*hiding circle around logo image*/
+.css-1crhti9 {
+  display: none;
+}
+
+/*hiding logo image*/
+.css-wc878a {
+  display: none;
+}
+
+/*heading border radiai*/
+.ff-component-header {
+  border-radius: 10px !important;
+}
+
+/*fixing border radiai*/
+.ff-style-collapsible-collapsed {
+  border-radius: 10px !important;
+}
+
+/*navigation padding*/
+.css-dieo3z {
+  padding: 20px !important;
+}
+
+/*Better timetable spacing*/
+.ff-timetable-container {
+  margin-top: 10px !important;
+  border-radius: 10px !important;
+}
+
+/*extra margin inside MyTasks*/
+.ff_container-dashboard-section {
+  margin: 10px !important;
+}
+
+/* My tasks bgcolor */ 
+.ff-component-block, .ff_container-dashboard-section {
+  background-color: #222 !important;
+}
+
+/* My tasks fix white line */
+.css-10hq5xn {
+  background-color: #000 !important;
+  color: #000 !important;
+}
+
+/*tasks background */
+.css-1w3qc0h {
+  background-color: #181818;
+}
+
+/* tasks border */
+.css-10hq5xn {
+  border: 0px !important;
+}
+
+/*tasks footer */
+.css-1kutl2v {
+  background-color: #181818 !important;
+}
+
+/* marks and feedback border radius*/
+.ff_container-dashboard-section__header {
+  border-radius: 10px !important;
+}
+
+/*marks and feedback footer*/
+.ff_container-dashboard-section__footer {
+  background: #111 !important;
+  border-radius: 10px !important;
+  margin-bottom: 10px !important;
+}
+
+/* button */
+.css-13rfang {
+  background-color: #111 !important;
+  border: 1px solid #000 !important;
+  transition: 0.4s !important;
+}
+
+.css-13rfang:hover {
+  background-color: #000 !important;
+}
+
+/* footer */
+.melody-site-footer {
+  background-color: #42525b !important;
+  border-radius: 10px 10px 0px 0px !important;
+}
+
+/* ---- task screen ---- */
+/* bg */
+.css-1ufcdus {
+  background-color: #222 !important;
+}
+
+/* task button */
+.MuiButton-root {
+  background-color: #111 !important;
+  border: 1px solid #000 !important;
+  transition: 0.4s !important;
+  color: #fff !important;
+}
+.MuiButton-root:hover {
+  background-color: #000 !important;
+}
+
+/* task sidebar */
+.ff_module-form-summary__header {
+  background-color: #111 !important;
+}
+.ff_module-form-summary__title {
+  color: #fff !important;
+}
+
+.ff_module-form-summary__content {
+  background-color: #181818 !important;
+}
+
+/* tasks main display bg*/
+.css-15ig9wn {
+  background-color: #222 !important;
+}
+
+.ff_module-task-responses__actions {
+  background-color: #111 !important;
+}
+.ff_container-task-event-repeater {
+  background-color: #181818 !important;
+}
+
+/* tasks button*/
+.ff_module-button--tertiary-compact {
+  background-color: #181818 !important;
+}
+
+.ff_module-button--tertiary {
+  background-color: #222 !important;
+}
+
+/* tasks filter list*/
+/* title */
+.css-po26re, .css-csonyx {
+  background-color: #111 !important;
+  color: #fff !important;
+}
+/* content */
+.css-16wzkpg, .css-1a2hsxz {
+  background-color: #181818 !important;
+}
+
+/*sort select*/
+.css-uk6cul {
+  background-color: #181818 !important;
+}
+
+/* carousel num color*/
+.css-y2mlai {
+  color: #fff !important;
+}
+
+/* file preview */
+.ff_container-dialog__heading {
+  background-color: #111 !important;
+}
+.ff_container-dialog__title {
+  color: #fff !important;
+}
+/* iframe config */
+.document-content-container {
+  background-color: #222 !important;
+}
+.HeaderItems {
+  background-color: #181818 !important;
+}
+/* header buttons */
+.Button.active.tool-button {
+  background-color: #111 !important;
+}
+.zoom-overlay {
+  background-color: #111 !important;
+}
+.ribbons {
+  background-color: #111 !important;
+}
+.view-header-border {
+  background-color: #111 !important;
+}
+
+/* --- personal pages --- */
+/* bg color */
+.ff-post-content {
+  background-color: #111 !important;
+}
+.ff-post-footer {
+  background-color: #181818 !important;
+}
+
+/* navigation pane */
+.ff-nav-haschildren:a {
+  background-color: #181818 !important;
+}
+
+/* overide nav component bg color*/
+ff-navigationcomponent {
+  background-color: #111 !important;
+}
+
+.ff-component-block {
+  background-color: #111 !important;
+}
+/* title border radius */
+.ff-global-title {
+  border-radius: 0px 0px 10px 10px !important;
+}
+/* iframe component bg color fix */
+.css-5tuwiv {
+  background-color: #111 !important;
+}
+
+/* left navigation pane*/
+.ff-nav-level-1 {
+  background-color: #181818 !important;
+}
+
+/* --- login screen ---*/
