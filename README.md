@@ -11,3 +11,6 @@ Main Issues:
 - Timetable on dashboard is coloured incorrectly, I may revisit this in the future.
 - Timetable in timetable view may be buggy and/or coloured incorrectly.
 - There are more features throughout the site that I am yet to colour properly, this will be fixed over time.
+
+Compatibility:
+- Tested on Safari 16, fully supported.
