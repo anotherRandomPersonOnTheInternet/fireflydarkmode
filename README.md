@@ -17,4 +17,4 @@ Compatibility:
 - Tested on Safari 16, fully supported.
 
 Notes:
-- This code is compatible with the -theme-color meta tag, meaning your website's tab bar changes colour to match the site, this feature is available on browsers that support -theme-color (On safari 16, enable compact tab bar to see this effect).
+- This code is compatible with the -theme-color meta tag, meaning your website's tab bar changes colour to match the site, this feature is available on browsers that support -theme-color (On safari 15 and onwards, enable compact tab bar to see this effect).
